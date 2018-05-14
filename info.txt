@@ -1,0 +1,15 @@
+To solve inconsistencies of pull in github
+
+To solve this:
+
+press "i"
+write your merge message
+press "esc"
+write ":wq"
+then press enter
+
+Runge-Kutta 4th order
+https://en.wikipedia.org/wiki/Runge–Kutta_methods
+
+Color maps Matplotlib
+https://matplotlib.org/examples/color/colormaps_reference.html
